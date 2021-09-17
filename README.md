@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @simo0022
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @simo
+- 👀 I’m interested in dev things
+- 🌱 I’m currently learning lots of things 
+- 💞️ I’m looking to collaborate 
+- 📫 you can reach me by send me a PM in gitty
 
 <!---
 simo0022/simo0022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
